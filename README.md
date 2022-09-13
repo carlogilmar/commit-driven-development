@@ -2,7 +2,7 @@
 
 # 🧩 Commit Driven Development
 
-> Repo to show some ideas presented in Git Merge 2022 Chicago by Carlo Gilmar.
+> Repo to show some ideas presented in Git Merge 2022 Chicago by Carlo Gilmar. This is an approach to combine git usage to have clarity, the name is in honor to TDD.
 
 [🔗 Git Merge 2022 Talk Slides](https://www.slideshare.net/CarloGilmarPadillaSa/git-merge-2022)
 
