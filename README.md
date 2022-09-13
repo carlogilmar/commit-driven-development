@@ -80,3 +80,7 @@ Commit log history `git log --pretty=oneline`:
 # Guidelines for programming languages
 
 - [Elixir](langs/elixir.md)
+
+# Traductions
+
+- [Español](traductions/spanish.md)
