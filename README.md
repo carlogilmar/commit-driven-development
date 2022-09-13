@@ -40,4 +40,6 @@
 - If your team is using this approach, you'll be able to learn about their building process. 
 - You can incorporate this to your onboarding process of new joiners to teach them how your team is working. 
 
+# Guidelines for programming languages
 
+- [Elixir](langs/elixir.md)
