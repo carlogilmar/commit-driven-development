@@ -31,7 +31,7 @@
 
 # Examples
 
-Initial bullet list:
+1. Start with a simple list writting down all the steps you consider are needed to solve your feature in question (probably you'll find more steps during coding)
 
 ```
 Step 1: Creating an empty elixir project with mix tool
@@ -43,7 +43,8 @@ Step 6: Adding function for get the current state of the account
 Step 7: Running mix formatter
 ```
 
-Commit log history `git log --pretty=oneline`:
+2. Write your code.
+3. Read your commit log history using some like `git log --pretty=oneline`, can you recognize your coding process? 
 
 ```
 * 499a51e  2 years, 9 months ago Carlo Gilmar Adding function for try to initialize again an account
