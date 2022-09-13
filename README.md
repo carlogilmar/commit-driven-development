@@ -20,6 +20,42 @@
 - Open to feedback and ask questions.
 - Invest time in your tools, invest time learning and using git. 
 
+# 🤝 Who should use this approach
+
+- Developers looking for new ways to work.
+- Recruiters looking to understand how candidates are working.
+- Team leaderships looking to build a culture around their teams.
+- Tech companies looking to improve their onboarding experience.
+- Tech educators looking to implement new team dynamics.
+- Newcomer developers.
+
+# Examples
+
+Initial bullet list:
+
+```
+Step 1: Creating an empty elixir project with mix tool
+Step 2: Adding simple http server
+Step 3: Adding model account with his unit test
+Step 4: Adding genserver for manage the account creation flow with his unit test
+Step 5: Set ExUnit for running tests in order
+Step 6: Adding function for get the current state of the account
+Step 7: Running mix formatter
+```
+
+Commit log history `git log --pretty=oneline`:
+
+```
+* 499a51e  2 years, 9 months ago Carlo Gilmar Adding function for try to initialize again an account
+* 74e7343  2 years, 9 months ago Carlo Gilmar Running mix formatter
+* 7ba0030  2 years, 9 months ago Carlo Gilmar Adding function for get the current state of the account
+* 3c13c47  2 years, 9 months ago Carlo Gilmar Set ExUnit for running tests in order
+* f6f6866  2 years, 9 months ago Carlo Gilmar Adding genserver for manage the account creation flow with his unit test
+* b0c4164  2 years, 9 months ago Carlo Gilmar Adding model account with his unit test
+* fd86455  2 years, 9 months ago Carlo Gilmar Adding simple http server
+* fe0ceeb  2 years, 9 months ago Carlo Gilmar Creating an empty elixir project with mix tool
+```
+
 <img width="1088" alt="image" src="https://user-images.githubusercontent.com/17634377/189939119-735248c5-d31d-4e20-a053-c68a9defc26e.png">
 
 # 🏆 Achievements
@@ -39,6 +75,7 @@
 - Building features in this way will give you a way to track your building process in the commit history. You can use this to share with your team.
 - If your team is using this approach, you'll be able to learn about their building process. 
 - You can incorporate this to your onboarding process of new joiners to teach them how your team is working. 
+- You can use this to solve code exercises or code challenges to give to your interviewer another way to understand how you're working.
 
 # Guidelines for programming languages
 
