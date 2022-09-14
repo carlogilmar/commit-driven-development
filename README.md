@@ -7,7 +7,7 @@
 
 [🔗 Git Merge 2022 Talk Slides](https://www.slideshare.net/CarloGilmarPadillaSa/git-merge-2022)
 
-# 🚀 Code features using Commit Driven Development 
+# 🚀 Write your commit's descriptions before code 
 
 1. Think first about how to solve your feature and break it up in small steps.
 2. Write down a bullet list with this small steps. Every description should represent one of your steps. 
