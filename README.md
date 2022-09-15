@@ -86,3 +86,9 @@ Step 7: Running mix formatter
 # Traductions
 
 - [Español](traductions/spanish.md)
+
+*TODO SECTIONS*
+
+- Branch history maturation.
+- Rebuilding a bunch of commits to create a more useful history.
+- Replicate a building history through commits.
