@@ -62,7 +62,7 @@ Step 7: Running mix formatter
 
 # 🏆 Achievements
 
-- You're able to **read your own building code story** following just the commit descriptions (like reading a cook recipe). 
+- You're able to **read your own building code story** following just the commit descriptions (like reading a cooking recipe). 
 - You're able to **reproduce the building process** through explore every commit using `git show`.
 - Anyone from your team should be able to **follow your coding process**.
 - Anyone from your team should be able to **reproduce your coding process**.
@@ -73,19 +73,19 @@ Step 7: Running mix formatter
 
 # 🤔 When to use? 
 
-- You can use this technique before code any feature, this will enforce you to have enough clarity and ask you questions that probably you'll have to ask to your team as well. 
+- You can use this technique before coding any feature, this will enforce you to have enough clarity and ask you questions that probably you'll have to ask to your team as well. 
 - Building features in this way will give you a way to track your building process in the commit history. You can use this to share with your team.
 - If your team is using this approach, you'll be able to learn about their building process. 
-- You can incorporate this to your onboarding process of new joiners to teach them how your team is working. 
+- You can incorporate this to your onboarding process of new members to teach them how your team is working. 
 - You can use this to solve code exercises or code challenges to give to your interviewer another way to understand how you're working.
 
 # Guidelines for programming languages
 
 - [Elixir](langs/elixir.md)
 
-# Traductions
+# Translations
 
-- [Español](traductions/spanish.md)
+- [Español](translations/spanish.md)
 
 *TODO SECTIONS*
 
