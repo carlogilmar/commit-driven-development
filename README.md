@@ -92,3 +92,4 @@ Step 7: Running mix formatter
 - Branch history maturation.
 - Rebuilding a bunch of commits to create a more useful history.
 - Replicate a building history through commits.
+- Onboarding feature branches. 
