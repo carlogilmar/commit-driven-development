@@ -1,25 +1,26 @@
+# Welcome
 
 <img width="1257" alt="image" src="https://user-images.githubusercontent.com/17634377/190291286-2d27fd51-3f0f-448c-a73c-22296abaa3ca.png">
 
-# Commit Driven Development 
+# Commit Driven Development
 
 > Repo to show some ideas presented in Git Merge 2022 Chicago by Carlo Gilmar.
 
 [🔗 Git Merge 2022 Talk Slides](https://www.slideshare.net/CarloGilmarPadillaSa/git-merge-2022)
 
-# 🚀 Write your commit's descriptions before code 
+# 🚀 Write your commit's descriptions before code
 
 1. Think first about how to solve your feature and break it up in small steps.
-2. Write down a bullet list with this small steps. Every description should represent one of your steps. 
+2. Write down a bullet list with this small steps. Every description should represent one of your steps.
 3. Write the lines of code that achieve your steps.
 4. After made your commits, read your git log history, this should represent your building process.
 
 # ❤️ Values
 
 - Order and clarity before commit your code.
-- Great communication telling how you're coding. 
+- Great communication telling how you're coding.
 - Open to feedback and ask questions.
-- Invest time in your tools, invest time learning and using git. 
+- Invest time in your tools, invest time learning and using git.
 
 # 🤝 Who should use this approach
 
@@ -45,7 +46,7 @@ Step 7: Running mix formatter
 ```
 
 2. Write your code.
-3. Read your commit log history using some like `git log --pretty=oneline`, can you recognize your coding process? 
+3. Read your commit log history using some like `git log --pretty=oneline`, can you recognize your coding process?
 
 ```
 * 499a51e  2 years, 9 months ago Carlo Gilmar Adding function for try to initialize again an account
@@ -62,7 +63,7 @@ Step 7: Running mix formatter
 
 # 🏆 Achievements
 
-- You're able to **read your own building code story** following just the commit descriptions (like reading a cooking recipe). 
+- You're able to **read your own building code story** following just the commit descriptions (like reading a cooking recipe).
 - You're able to **reproduce the building process** through explore every commit using `git show`.
 - Anyone from your team should be able to **follow your coding process**.
 - Anyone from your team should be able to **reproduce your coding process**.
@@ -71,12 +72,12 @@ Step 7: Running mix formatter
 
 <img width="1095" alt="image" src="https://user-images.githubusercontent.com/17634377/189939435-aa321529-bd0e-49e5-977d-8a5d9fe36b8a.png">
 
-# 🤔 When to use? 
+# 🤔 When to use?
 
-- You can use this technique before coding any feature, this will enforce you to have enough clarity and ask you questions that probably you'll have to ask to your team as well. 
+- You can use this technique before coding any feature, this will enforce you to have enough clarity and ask you questions that probably you'll have to ask to your team as well.
 - Building features in this way will give you a way to track your building process in the commit history. You can use this to share with your team.
-- If your team is using this approach, you'll be able to learn about their building process. 
-- You can incorporate this to your onboarding process of new members to teach them how your team is working. 
+- If your team is using this approach, you'll be able to learn about their building process.
+- You can incorporate this to your onboarding process of new members to teach them how your team is working.
 - You can use this to solve code exercises or code challenges to give to your interviewer another way to understand how you're working.
 
 # Guidelines for programming languages
@@ -92,4 +93,4 @@ Step 7: Running mix formatter
 - Branch history maturation.
 - Rebuilding a bunch of commits to create a more useful history.
 - Replicate a building history through commits.
-- Onboarding feature branches. 
+- Onboarding feature branches.
