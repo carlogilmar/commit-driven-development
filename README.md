@@ -15,6 +15,21 @@
 3. Write the lines of code that achieve your steps.
 4. After made your commits, read your git log history, this should represent your building process.
 
+- You anticipate the flow instead of being reactive.
+- You modularize the path instead of creating one big messy effort.
+- You value small, meaningful steps that build on each other.
+- You are conscious of transitions between steps ("Ok, now let's move to the next thing...").
+
+# 🛤️ A Simple Flow for Commit Driven Development (if you want to practice)
+
+1. Write the commit plan:	Before coding, write down: commit titles, one per meaningful change. Example: "Add schema for proxy agents" / "Add changeset validations" / "Implement create_proxy_agent function".
+2. Code for one commit at a time:	Only focus on what the commit says. Don't jump ahead.
+3. Commit often:	As soon as you complete the planned change, commit it with the pre-written message.
+4. Adjust if needed:	If something unexpected happens, adjust your plan. It's not rigid.
+5. Review the history:	After feature is done, review you
+
+> Commits are mental checkpoints for any creative or technical flow
+
 # ❤️ Values
 
 - Order and clarity before commit your code.
